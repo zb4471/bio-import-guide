@@ -4,5 +4,3 @@ plugins:
 - jekyll-remote-theme
 title: 特殊物品与生物制品审批知识库
 description: 收录科研用特殊物品及生物制品进口审批相关知识与经验。
-github:
-  is_project_page: false
